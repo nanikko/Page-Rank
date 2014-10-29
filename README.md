@@ -1,4 +1,4 @@
-###Implementation of PageRank algorithm
+Implementation of PageRank algorithm
 --
 __Main.java__ The Main() method of the program is located in this file. The execution starts from here. It collects the command line arguments and calls the subsequent jobs from the main function. Initially Graph properties job is called first, RankInitializer second, PageRank third and ListTop10Nodes fourth.
 
